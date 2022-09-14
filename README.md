@@ -23,7 +23,7 @@ Doing so will allow us to create a summary DataFrame that will show us ride-shar
 
 ![pyber_summary_df](pyber_summary_df.png)
   
-As can be seen in the picture above, there are fewer total rides, total drivers, and total fares in rural areas. However, the average fare per ride and driver is higher than in Suburban and Urban areas. 
+As can be seen in the picture above, there are fewer total rides, total drivers, and total fares in rural areas. However, the average fare per ride and driver is higher than in suburban and urban areas. 
 
 Rural areas are usually less populated, resulting in fewer people requesting a ride.
 While rural areas may be less profitable for PyBer due to the lowest amount of total fares, urban cities are making the most money. 
