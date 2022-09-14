@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ## Overview of PyBer_Analysis:
-#### V. Isualize, CEO of PyBer, has asked us to create and visualize a DataFrame if the ride sharing data by city type. This will help PyBer decide where to allocate resources.
+#### V. Isualize, CEO of PyBer, has asked us to create and visualize a DataFrame of the ride-sharing data by city type. This will help PyBer decide where to better allocate resources.
 
 
 ## Resources:
