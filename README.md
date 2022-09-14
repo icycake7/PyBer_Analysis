@@ -30,7 +30,7 @@ While rural areas may be less profitable for PyBer due to the lowest amount of t
 
 ### <u>Multiple-line Chart</u>
 This can also be observed in the following multiple-line chart of total fares for each city type:
-![PyBer_fare_summary](analysis\PyBer_fare_summary.png)
+![PyBer_fare_summary](https://github.com/icycake7/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 The multi-line chart shows us the total fares for each city type from 2019-01-01 through 2019-04-28 on a weekly basis. The graph is very similar to what we have seen in the PyBer Summary DataFrame. Urban cities earn the most while rural cities are barely making any money. Suburban cities seem to be in the middle, meaning that there is demand just not high enough. This could be a potential area to revisit when it comes to profitability.
 
